@@ -1,0 +1,20 @@
+{
+  "name": "js-dojo-boilerplate",
+  "version": "1.0.0",
+  "description": "A small js project to quickstart your js coding dojo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "js",
+    "coding",
+    "dojo"
+  ],
+  "author": "alxlchnr",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
